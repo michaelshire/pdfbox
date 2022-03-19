@@ -1,5 +1,5 @@
 [![Maven Package](https://github.com/michaelshire/pdfbox/actions/workflows/maven-build-and-publish.yml/badge.svg)](https://github.com/michaelshire/pdfbox/actions/workflows/maven-build-and-publish.yml)
-[![CodeQL](https://github.com/michaelshire/pdfbox/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/michaelshire/pdfbox/actions/workflows/codeql-analysis.yml)
+[![CodeQL](https://github.com/michaelshire/pdfbox/actions/workflows/codeql-analysis.yml/badge.svg?branch=main)](https://github.com/michaelshire/pdfbox/actions/workflows/codeql-analysis.yml)
 
 # pdfbox
 Test Repo to use GitHub Action with Java code and Maven and output to GitHub Packages
