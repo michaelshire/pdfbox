@@ -1,2 +1,4 @@
+[![Maven Package](https://github.com/michaelshire/pdfbox/actions/workflows/maven-publish.yml/badge.svg)](https://github.com/michaelshire/pdfbox/actions/workflows/maven-publish.yml)
+
 # pdfbox
-Java app that extracts text contents from PDFs and uploads to a Couchbase server
+Test Repo to use GitHub Action with Java code and Maven and output to GitHub Packages
