@@ -6,9 +6,9 @@ Test Repo to use GitHub Action with Java code and Maven and output to GitHub Pac
 To run the program download the full dependencies package
 
 Set three environment variables:
-PDFBOX_USERNAME
-PDFBOX_PASSWORD
-PDFBOX_HOSTNAME
+- PDFBOX_USERNAME
+- PDFBOX_PASSWORD
+- PDFBOX_HOSTNAME
 
 and run the following commandline:
 ```
